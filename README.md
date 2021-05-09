@@ -1,2 +1,2 @@
-# Movies-ETL
-Merging JSON and CSV data into a SQL DB
+Purpose:
+The purpose of this project was to extract, transform, and merge movie information from a cvs file and a json file into a Pandas dataframes; and then load those tables into a Postgres database.
